@@ -8,6 +8,7 @@
 
 ## ブレッドボード図
 Fritingを用いて作成したイメージ図です　
+![回路図](https://raw.githubusercontent.com/ishi-0409/temper/main/temper.png)
 
 
 ## 回路図
