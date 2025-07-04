@@ -14,3 +14,4 @@ Fritingを用いて作成したイメージ図です　
 ## 回路図
 Fritingを用いて作成したイメージ図です  
 この回路図は自動生成ツールで作成しています
+![回路図](https://github.com/ishi-0409/temper/blob/main/temper%E5%9B%9E%E8%B7%AF%E5%9B%B3.png)
